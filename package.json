@@ -1,0 +1,12 @@
+{
+  "name": "codewars_challenges",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node './src/3. Counting Duplicates.ts'"
+  },
+  "author": "Anna Novickova",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
